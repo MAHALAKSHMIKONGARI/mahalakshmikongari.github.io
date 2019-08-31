@@ -25,7 +25,7 @@ A patent describes an invention for which an inventor claims the exclusive right
 
 ![](https://image.slidesharecdn.com/finalppt-ip-120705063938-phpapp02/95/intellectual-property-rights-19-728.jpg?cb=1341470455)
 
-Pic Source: []((https://images.app.goo.gl/q6UpXDAqY5pqDuHZ6)
+Pic Source: [](https://images.app.goo.gl/q6UpXDAqY5pqDuHZ6)
 
 ## Trademarks
 A trademark describes a symbol, logo, sound, color, design or other device that is used to identify a business or product. Term of trademark is 10 years from the date of application.
